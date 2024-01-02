@@ -23,7 +23,7 @@ final allRecipes = [
     category: "Beef & Chicken",
     duration: "40 Min",
     serving: "4 Serving",
-    info: "2 pounds ground turkey ,4 teaspoons jerk seasoning (see recipe note), 1 tablespoon grated fresh ginger, 2 small habanero peppers, seeded and minced, 3 garlic cloves, 4 green onions, 1/4 cup yellow onion, finely diced, 2 teaspoons fresh thyme leaves (no need to chop), 1/2 teaspoon paprika, 1 teaspoon black pepper, 1/2 teaspoon salt, 1/3 cup plain dry breadcrumbs, 2 large eggs",
+    info: "2 pounds ground turkey, 4 teaspoons jerk seasoning (see recipe note), 1 tablespoon grated fresh ginger, 2 small habanero peppers, seeded and minced, 3 garlic cloves, 4 green onions, 1/4 cup yellow onion, finely diced, 2 teaspoons fresh thyme leaves (no need to chop), 1/2 teaspoon paprika, 1 teaspoon black pepper, 1/2 teaspoon salt, 1/3 cup plain dry breadcrumbs, 2 large eggs",
   ),
   RecipeModel(
     name: "Mac and Cheese",
